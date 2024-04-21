@@ -13,7 +13,9 @@
   </a>
 </p>
 
-# **Train Simple Neural Network**
+# **Train Simple Neural Network with TensorFlow**
+
+![TensorFlow Banner](./src/images/TensorFlow_Banner.jpg)
 
 ## **Overview**
 Back on April 16, 2024 I attended the lecture "*Mastering Unsupervised Learning and ANN Basics: An Overview*" by Bangkit Academy 2024, the lecture was held by Instructor [Rahmat Fajri](https://github.com/rfajri27). Our Instructor gave us a challenge to solve the problem by building a neural network model using TensorFlow and Keras. The problem is to predict the output of the given input X and Y array. The input X and Y array are given as follows:
