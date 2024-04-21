@@ -24,5 +24,8 @@ def create_uncompiled_model():
         tf.keras.layers.Dense(units=1)
     ])
     
+    # Print the model summary
+    print(model.summary())
+    
     # Returning the uncompiled model
     return model
