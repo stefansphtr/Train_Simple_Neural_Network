@@ -74,12 +74,13 @@ The model is compiled using the Adam optimizer with a learning rate of 0.03 and 
 | 7 | 0.5594 | 1.2378 |
 | 8 | 0.9205 | 2.1279 |
 | 9 | 0.1040 | 0.2080 |
+| 10 | 0.0434 | 0.0867 |
 
-Training was stopped early at epoch 9 as the loss reached the threshold of 0.05. The final loss and MSE at this point were 0.0480 and 0.0960 respectively.
+Training was stopped early at epoch 9 as the loss reached the threshold of 0.05. The final loss and MSE at this point were 0.0434 and 0.0867 respectively.
 
 ## **Key Takeaways**
 
-The model was able to solve the problem by achieving a loss of 0.0480 and MSE of 0.0960 within 9 epochs. The model was able to achieve the target of 0.05% loss within 10 epochs. The model architecture used was able to solve the problem effectively and efficiently.
+The model was able to solve the problem by achieving a loss of 0.0434 and MSE of 0.0867 within 9 epochs. The model was able to achieve the target of 0.05% loss within 10 epochs. The model architecture used was able to solve the problem effectively and efficiently.
 
 I learned that for this simple problem, a simple neural network model with 2 hidden layers with 16 and 8 neurons respectively was able to solve the problem effectively. The model was able to learn the relationship between the input X and output Y array and predict the output Y array effectively.
 
@@ -101,7 +102,7 @@ The plot shows the relationship between the input X and output Y array. The mode
 
 ## **Conclusion**
 
-In conclusion, this project has demonstrated the power and simplicity of neural networks in solving regression problems. By using a simple architecture with just two hidden layers, we were able to train a model that accurately predicts the output array from the input array, achieving a low loss of 0.0480 and MSE of 0.0960 within just 9 epochs.
+In conclusion, this project has demonstrated the power and simplicity of neural networks in solving regression problems. By using a simple architecture with just two hidden layers, we were able to train a model that accurately predicts the output array from the input array, achieving a low loss of 0.0434 and MSE of 0.0867 within just 9 epochs.
 
 This project has not only reinforced my understanding of neural networks, but also the importance of setting clear objectives and targets. The goal of achieving a loss of 0.05% within 10 epochs guided the design and training of the model, leading to an efficient and effective solution.
 
