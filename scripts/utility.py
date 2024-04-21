@@ -24,9 +24,6 @@ def create_uncompiled_model():
         ]
     )
 
-    # Print the model summary
-    print(model.summary())
-
     # Returning the uncompiled model
     return model
 
