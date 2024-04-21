@@ -14,6 +14,7 @@
 </p>
 
 # **Train Simple Neural Network with TensorFlow**
+![Fading Line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ![TensorFlow Banner](./src/images/TensorFlow_Banner.jpg)
 
@@ -107,3 +108,4 @@ This project has not only reinforced my understanding of neural networks, but al
 Moving forward, I am excited to apply the knowledge and skills gained from this project to more complex problems and datasets. I am confident that with the power of TensorFlow and Keras, I will be able to tackle these challenges and continue to grow as a machine learning practitioner.
 
 Thank you for taking the time to review this project. I welcome any feedback or suggestions for improvement.
+![Gradient Line](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
